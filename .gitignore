@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+.venv_translation/
+
+# Temporary files
+temp_audio/
+test_audio/
+
+# Environment / secrets
+.env
+
+# IDE
+.vscode/
